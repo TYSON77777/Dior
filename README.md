@@ -35,7 +35,7 @@ Dior is a visually elegant and responsive landing page designed to represent a l
 ---
 
 ## 📁 Project Structure
-
+```
 Dior/
 ├── css/
 │ └── style.css # Custom styles
@@ -48,6 +48,7 @@ Dior/
 ├── video/
 │ └── [Video files] # Embedded video assets
 └── index.html # Main landing page
+```
 
 
 ---
